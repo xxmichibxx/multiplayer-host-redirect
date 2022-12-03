@@ -1,0 +1,4 @@
+# Battlefield 1942
+# master.bf1942.org servers
+143.176.207.225 master.gamespy.com
+143.176.207.225 master.bf1942.sk
