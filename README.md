@@ -1,15 +1,13 @@
-# OpenSpy Host Redirect Lists
+# Multiplayer Host Redirect Lists
 
-A collection of host files to connect to the custom game servers (OpenSpy).
+A collection of host files to connect to the custom game servers (e.g. OpenSpy).
 Enabling multiplayer again.
 
 More details here: http://beta.openspy.net/en/
 
 Supported games:
 
-bf2142.txt: Battlefield 2142 (2006)
-
-bfvietnam.txt: Battlefield Vietnam (2004)
+Battlefield 1942 (2002), Battlefield Vietnam (2004), Battlefield 2 (2005), Battlefield 2142 (2006)
 
 How To:
 
