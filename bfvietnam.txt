@@ -1,5 +1,5 @@
 # Battlefield Vietnam
-# OpenSpy servers
+# OpenSpy.net servers
 157.245.212.59 bfvietnam.available.gamespy.com
 157.245.212.59 bfvietnam.master.gamespy.com
 157.245.212.59 bfvietnam.ms0.gamespy.com
