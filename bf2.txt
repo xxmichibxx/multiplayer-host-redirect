@@ -1,5 +1,5 @@
 # Battlefield 2
-# BF2Hub servers
+# BF2Hub.com servers
 92.51.181.102 battlefield2.available.gamespy.com
 92.51.181.102 battlefield2.master.gamespy.com
 92.51.181.102 battlefield2.ms14.gamespy.com
