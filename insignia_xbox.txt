@@ -1,0 +1,6 @@
+# Insignia
+# Insignia is a Microsoft XBOX Live replacement
+# Source: https://insignia.live/dns_zones.json
+macs.insig.uk macs.xboxlive.com
+as.insig.uk as.xboxlive.com
+tgs.insig.uk tgs.xboxlive.com
