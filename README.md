@@ -4,15 +4,14 @@ A collection of host files for PiHole/AdGuard Home or Windows Hosts file to conn
 Enabling multiplayer again.
 
 * Supported games:
-
-- Quake III Arena (1999)
-- Battlefield 1942 (2002)
-- Battlefield Vietnam (2004)
-- Battlefield 2 (2005)
-- Battlefield 2142 (2006)
+  - Quake III Arena (1999)
+  - Battlefield 1942 (2002)
+  - Battlefield Vietnam (2004)
+  - Battlefield 2 (2005)
+  - Battlefield 2142 (2006)
 
 * Supported services
-- Insignia (XBOX Live)
+  - Insignia (XBOX Live)
 
 Method 1: Windows Hosts file
 - Edit as administrator hosts file located under C:\Windows\System32\drivers\etc
