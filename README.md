@@ -1,6 +1,6 @@
 # Multiplayer Host Redirect Lists
 
-A collection of host files for PiHole/AdGuard Home or Windows Hosts file to connect to the custom game servers (e.g. OpenSpy).
+A collection of host files for PiHole/AdGuard Home or Windows Hosts file to connect to the custom game servers/services (e.g. OpenSpy).
 Enabling multiplayer again.
 
 * Supported games:
@@ -11,7 +11,8 @@ Enabling multiplayer again.
 - Battlefield 2 (2005)
 - Battlefield 2142 (2006)
 
-* How To
+* Supported services
+- Insignia (XBOX Live)
 
 Method 1: Windows Hosts file
 - Edit as administrator hosts file located under C:\Windows\System32\drivers\etc
@@ -19,4 +20,4 @@ Method 1: Windows Hosts file
 - Save the file
 
 Method 2: AdGuard Home
-- Add the raw GitHub link to the ADGuard blocklist
+- Add the raw GitHub link to the AdGuard blocklist
