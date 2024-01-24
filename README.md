@@ -3,14 +3,17 @@
 A collection of host files for PiHole/AdGuard Home or Windows Hosts file to connect to the custom game servers/services (e.g. OpenSpy).
 Enabling multiplayer again.
 
-* Supported games:
+* Supported PC games:
   - Quake III Arena (1999)
   - Battlefield 1942 (2002)
   - Battlefield Vietnam (2004)
   - Battlefield 2 (2005)
   - Battlefield 2142 (2006)
+  
+* Supported PS3 games:
+  - Test Drive Unlimited 2 (2011)
 
-* Supported services
+* Supported online services
   - Insignia (XBOX Live)
 
 Method 1: Windows Hosts file
