@@ -1,0 +1,9 @@
+!
+! Title: PC - Battlefield Vietnam
+! Description: Multiplayer redirect for Battlefield Vietnam (2004)
+! Homepage: https://openspy.net/
+!
+# START HOSTS LIST
+157.245.212.59 bfvietnam.available.gamespy.com
+157.245.212.59 bfvietnam.master.gamespy.com
+157.245.212.59 bfvietnam.ms0.gamespy.com

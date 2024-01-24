@@ -1,0 +1,9 @@
+!
+! Title: PC - Battlefield 1942
+! Description: Multiplayer redirect for Battlefield 1942 (2002)
+! Homepage: https://team-simple.org
+!
+# START HOSTS LIST
+162.19.137.251 master.bf1942.sk
+162.19.137.251 master.gamespy.com
+162.19.137.251 master.bf1942.org

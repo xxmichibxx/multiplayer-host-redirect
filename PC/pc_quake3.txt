@@ -1,0 +1,7 @@
+!
+! Title: PC - Quake III Arena
+! Description: Multiplayer redirect for Quake III Arena (1999)
+! Homepage: https://ioquake3.org
+!
+# START HOSTS LIST
+192.241.238.177 master.quake3arena.com

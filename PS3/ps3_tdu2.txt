@@ -1,0 +1,16 @@
+!
+! Title: PS3 - Test Drive Unlimited 2
+! Description: Multiplayer redirect for Test Drive Unlimited 2 (2011)
+! Homepage: https://tduworld.com
+!
+! Official DNS: 77.68.126.25
+!
+# START HOSTS LIST
+109.228.35.121 ps3-proxy8.testdriveunlimited2.com
+109.228.35.121 ps3-proxy7.testdriveunlimited2.com
+109.228.35.121 ps3-proxy6.testdriveunlimited2.com
+109.228.35.121 ps3-proxy5.testdriveunlimited2.com
+109.228.35.121 ps3-proxy4.testdriveunlimited2.com
+109.228.35.121 ps3-proxy3.testdriveunlimited2.com
+109.228.35.121 ps3-proxy2.testdriveunlimited2.com
+109.228.35.121 ps3-proxy1.testdriveunlimited2.com
