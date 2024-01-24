@@ -1,3 +1,0 @@
-# Quake III Arena (1999)
-# master.ioquake3.org servers
-192.241.238.177 master.quake3arena.com
