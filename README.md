@@ -1,6 +1,6 @@
 # Multiplayer Host Redirect Lists
 
-A collection of host files for PiHole/AdGuard Home or Windows Hosts file to connect to the custom game servers/services (e.g. OpenSpy).
+A collection of host files for PiHole/AdGuard Home or Windows Hosts file to connect to the custom game servers/services.
 Enabling multiplayer again.
 
 * Supported PC games:
