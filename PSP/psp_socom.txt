@@ -1,0 +1,13 @@
+!
+! Title: PSP - SOCOM Series
+! Description: Multiplayer redirect for SOCOM FB/FB2/FB Public Beta/TS
+! Homepage: https://psrewired.com/
+!
+# START HOSTS LIST
+67.222.156.250 socomftb.online.scee.com
+67.222.156.250 socomftb2.psp.online.scea.com
+67.222.156.250 socomftb2.online.scee.com
+67.222.156.250 socompsp-prod.muis.pdonline.scea.com
+67.222.156.250 socompsp-pubeta.muis.pdonline.scea.com
+67.222.156.250 socomtacticspsp.online.scee.com
+67.222.156.250 socomtactics.psp.online.scea.com

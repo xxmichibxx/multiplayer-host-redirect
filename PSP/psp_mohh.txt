@@ -1,0 +1,9 @@
+!
+! Title: PSP - MoH Heroes/Heroes 2
+! Description: Multiplayer redirect for Medal of Honor Heroes/Heroes 2
+! Homepage: https://mohh-revival.pages.dev/
+!
+# START HOSTS LIST
+86.223.243.173 pspmoh07.ea.com
+86.223.243.173 pspmoh08.ea.com
+86.223.243.173 tos.ea.com
