@@ -13,6 +13,14 @@ Enabling multiplayer again.
 * Supported PS3 games:
   - Test Drive Unlimited 2 (2011)
 
+* Supported PSP games:
+  - SOCOM Fireteam Bravo (2005)
+  - SOCOM Fireteam Bravo 2 (2006)
+  - SOCOM Fireteam Bravo Public Beta (2005)
+  - SOCOM Tactical Strike (2007)
+  - Medal of Honor: Heroes (2006)
+  - Medal of Honor: Heroes 2 (2007)
+
 * Supported online services
   - Insignia (XBOX Live)
 
