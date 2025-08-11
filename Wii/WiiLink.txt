@@ -3,6 +3,8 @@
 ! Description: WiiLink is an open source replacement for Nintendo's servers
 ! Homepage: https://wiilink.ca/
 !
+! Official DNS: 167.235.229.36
+!
 # START HOSTS LIST
 95.217.77.151 available.gs.nintendowifi.net
 152.70.198.159 axing.nintendowifi.net
