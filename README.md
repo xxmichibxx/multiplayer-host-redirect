@@ -1,7 +1,7 @@
 # Multiplayer Host Redirect Lists
 
 A collection of host files for PiHole/AdGuard Home or Windows Hosts file to connect to the custom game servers/services.
-Enabling multiplayer again.
+Enabling multiplayer again. Multiple host files containing GameSpy servers could conflict with each other.
 
 * Supported PC games:
   - Quake III Arena (1999)
@@ -23,6 +23,7 @@ Enabling multiplayer again.
 
 * Supported online services
   - Insignia (XBOX Live)
+  - WiiLink (WiiConnect24/Nintendo WiFi Connection)
 
 Method 1: Windows Hosts file
 - Edit as administrator hosts file located under C:\Windows\System32\drivers\etc
