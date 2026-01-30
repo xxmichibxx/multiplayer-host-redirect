@@ -4,6 +4,6 @@
 ! Homepage: https://mohh-revival.pages.dev/
 !
 # START HOSTS LIST
-86.223.243.173 pspmoh07.ea.com
-86.223.243.173 pspmoh08.ea.com
-86.223.243.173 tos.ea.com
+51.254.141.170 pspmoh07.ea.com
+51.254.141.170 pspmoh08.ea.com
+51.254.141.170 tos.ea.com
